@@ -1,0 +1,7 @@
+.board {
+    display: flex;
+    gap: 20px;
+    padding-top: 60px;
+    padding-left: 10px;
+    padding-right: 20px;
+  }
